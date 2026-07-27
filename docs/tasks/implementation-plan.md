@@ -657,3 +657,17 @@ Dependencias: todas las fases anteriores.
 Pasos de validacion: ejecutar comandos finales y documentar resultados.
 
 Estado: pendiente.
+
+### Tarea 7.3: Actualizar README con sitio desplegado
+
+Objetivo: agregar el enlace publico del portfolio y reescribir el README para que presente mejor el proyecto.
+
+Archivos afectados: `README.md`, `docs/tasks/implementation-plan.md`, `docs/project-status.md`.
+
+Criterios de aceptacion: el README muestra `https://portafolio-nahuel-vargas.vercel.app/`, describe funcionalidades actuales sin inventar datos, lista stack y scripts, y mantiene instrucciones de instalacion claras.
+
+Dependencias: URL publica confirmada por Nahuel.
+
+Pasos de validacion: ejecutar `npm run format`, `npm run lint` y `npm run build`.
+
+Estado: completada.

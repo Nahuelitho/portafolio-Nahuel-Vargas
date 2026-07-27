@@ -343,6 +343,9 @@ Estructura creada parcialmente:
 - Se agrego verificacion de tipo `application/pdf` antes de habilitar los botones de CV, para evitar descargas `.htm` si el archivo falta o la ruta devuelve el HTML de la app.
 - Se confirmo que el build contiene `dist/cv/nahuel-vargas-cv.pdf`.
 - Se ejecuto `npm run format`, `npm run lint` y `npm run build` correctamente despues de corregir la descarga del CV.
+- Nahuel confirmo el sitio desplegado: `https://portafolio-nahuel-vargas.vercel.app/`.
+- Se reescribio `README.md` con descripcion profesional, enlace en vivo, funcionalidades actuales, stack, comandos, estructura, metodologia y enlaces profesionales.
+- Se ejecuto `npm run format`, `npm run lint` y `npm run build` correctamente despues de actualizar el README.
 
 ## Proximo Paso
 
