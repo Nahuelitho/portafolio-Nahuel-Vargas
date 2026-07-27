@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Portfolio Nahuel Vargas">
+  <rect width="64" height="64" rx="18" fill="#14213d" />
+  <rect x="13" y="14" width="38" height="27" rx="5" fill="#101a29" stroke="#9fd8cb" stroke-width="3" />
+  <path d="M25 49h14M32 41v8" stroke="#c9b8f2" stroke-width="4" stroke-linecap="round" />
+  <path d="M22 27h8M26 23v8" stroke="#9fd8cb" stroke-width="3" stroke-linecap="round" />
+  <circle cx="39" cy="25" r="2.4" fill="#c9b8f2" />
+  <circle cx="44" cy="30" r="2.4" fill="#c9b8f2" />
+</svg>
