@@ -584,6 +584,20 @@ Pasos de validacion: validacion manual de `ProjectCard` y lint.
 
 Estado: completada parcialmente; tarjetas implementadas dentro de la maqueta inicial.
 
+### Tarea 5.2.1: Pulir copy publico de proyectos
+
+Objetivo: reemplazar frases internas o demasiado genericas por descripciones publicas, simples y profesionales de los proyectos publicados.
+
+Archivos afectados: `docs/specifications/portfolio-spec.md`, `src/App.jsx`, `src/data/projects.js`, `docs/tasks/implementation-plan.md`, `docs/project-status.md`.
+
+Criterios de aceptacion: la seccion de proyectos no muestra texto tipo IA ni frases internas en la interfaz publica, cada card incluye una descripcion clara, tecnologias visibles y enlace al sitio publicado.
+
+Dependencias: feedback de Nahuel sobre el texto publicado.
+
+Pasos de validacion: revisar textos visibles, buscar frases internas, ejecutar `npm run format`, `npm run lint` y `npm run build`.
+
+Estado: completada.
+
 ### Tarea 5.3: Crear listado y detalle de proyectos
 
 Objetivo: implementar `/projects` y `/projects/:slug`.

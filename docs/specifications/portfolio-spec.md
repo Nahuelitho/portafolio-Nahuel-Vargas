@@ -137,9 +137,9 @@ Proyectos conocidos para maqueta inicial:
 
 - Juego educativo sobre San Luis desarrollado en pasantia ULP 2025/2026. [PENDIENTE: agregar detalles, tecnologias, imagen, URL y repositorio si corresponde].
 - Apps desarrolladas o mantenidas en pasantia M Studio. [PENDIENTE: confirmar si pueden publicarse y que informacion es publica].
-- Florearte primera version: `https://florearte-primera-version.vercel.app/`. [PENDIENTE: confirmar descripcion, tecnologias, rol y repositorio].
-- Comarcas San Luis: `https://comarcas-san-luis.vercel.app/login`. [PENDIENTE: confirmar descripcion, tecnologias, rol y repositorio].
-- Fotaza2 Web 2026: `https://fotaza2-web2-2026.vercel.app/`. [PENDIENTE: confirmar descripcion, tecnologias, rol y repositorio].
+- Florearte primera version: `https://florearte-primera-version.vercel.app/`. Catalogo web de ceramicas publicado con frontend en Vercel, servicio en Render y base de datos en MongoDB Atlas.
+- Comarcas San Luis: `https://comarcas-san-luis.vercel.app/login`. Juego educativo web sobre San Luis con inicio de sesion, acceso de invitado, HTML, CSS, JavaScript, Bootstrap, jQuery y Toastr visibles en el sitio publicado.
+- Fotaza2 Web 2026: `https://fotaza2-web2-2026.vercel.app/`. Aplicacion web publicada en Vercel para crear y explorar publicaciones de fotos, con HTML, CSS, JavaScript y variables de entorno documentadas.
 
 Imagenes disponibles:
 
@@ -156,6 +156,7 @@ Decision de presentacion:
 - Florearte debe mencionar el proceso de despliegue con Render y MongoDB Atlas, ademas de las variables de entorno necesarias.
 - Fotaza2 debe mencionar despliegue en Vercel y configuracion de variables de entorno.
 - No inventar procesos de despliegue para proyectos donde Nahuel no los haya confirmado.
+- La interfaz publica no debe mostrar frases de control interno, dudas de rol, placeholders o lenguaje que parezca generado por IA. Si falta un dato, se omite o se muestra de forma simple con informacion publica confirmada.
 
 ### Contacto
 

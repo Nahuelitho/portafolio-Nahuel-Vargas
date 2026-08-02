@@ -108,11 +108,9 @@ Datos sensibles o no recomendados para publicar por defecto:
 - Comarcas San Luis: `https://comarcas-san-luis.vercel.app/login`.
 - Fotaza2 Web 2026: `https://fotaza2-web2-2026.vercel.app/`.
 
-Pendiente confirmar por proyecto:
+Datos no publicados por proyecto:
 
 - Rol desempenado.
-- Tecnologias reales.
-- Descripcion funcional.
 - Repositorio publico, si corresponde.
 
 Imagenes disponibles:
@@ -346,7 +344,13 @@ Estructura creada parcialmente:
 - Nahuel confirmo el sitio desplegado: `https://portafolio-nahuel-vargas.vercel.app/`.
 - Se reescribio `README.md` con descripcion profesional, enlace en vivo, funcionalidades actuales, stack, comandos, estructura, metodologia y enlaces profesionales.
 - Se ejecuto `npm run format`, `npm run lint` y `npm run build` correctamente despues de actualizar el README.
+- Nahuel solicito corregir textos publicos que sonaban a IA, especialmente la descripcion de la seccion de proyectos.
+- Se reemplazo la frase interna sobre descripciones prudentes por un texto publico profesional y simple.
+- Se actualizaron las cards de Florearte, Comarcas San Luis y Fotaza2 Web 2026 con descripciones directas, tecnologias visibles y enlaces al proyecto.
+- Nahuel aclaro que Florearte es un catalogo de ceramicas; se corrigio la descripcion publica.
+- Se corrigieron tildes y redaccion en textos visibles principales del sitio.
+- Se ejecuto `npm run format`, `npm run lint` y `npm run build` correctamente despues de pulir el copy publico.
 
 ## Proximo Paso
 
-Agregar el video Android en `public/videos/android-app-demo.mp4` cuando este listo y ajustar textos/tecnologias reales de cada proyecto.
+Validar el copy publicado y agregar el video Android en `public/videos/android-app-demo.mp4` cuando este listo.
