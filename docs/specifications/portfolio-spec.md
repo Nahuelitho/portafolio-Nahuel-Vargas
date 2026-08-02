@@ -138,7 +138,7 @@ Proyectos conocidos para maqueta inicial:
 - Juego educativo sobre San Luis desarrollado en pasantia ULP 2025/2026. [PENDIENTE: agregar detalles, tecnologias, imagen, URL y repositorio si corresponde].
 - Apps desarrolladas o mantenidas en pasantia M Studio. [PENDIENTE: confirmar si pueden publicarse y que informacion es publica].
 - Florearte primera version: `https://florearte-primera-version.vercel.app/`. Catalogo web de ceramicas publicado con frontend en Vercel, servicio en Render y base de datos en MongoDB Atlas.
-- Comarcas San Luis: `https://comarcas-san-luis.vercel.app/login`. Juego educativo web sobre San Luis con inicio de sesion, acceso de invitado, HTML, CSS, JavaScript, Bootstrap, jQuery y Toastr visibles en el sitio publicado.
+- Comarcas San Luis: `https://comarcas-san-luis.vercel.app/login`. Juego educativo web sobre la provincia de San Luis, sus departamentos y sus parajes, con inicio de sesion, acceso de invitado, HTML, CSS, JavaScript, Bootstrap, jQuery y Toastr visibles en el sitio publicado.
 - Fotaza2 Web 2026: `https://fotaza2-web2-2026.vercel.app/`. Aplicacion web publicada en Vercel para crear y explorar publicaciones de fotos, con HTML, CSS, JavaScript y variables de entorno documentadas.
 
 Imagenes disponibles:

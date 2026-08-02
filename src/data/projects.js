@@ -20,7 +20,7 @@ export const projects = [
     slug: 'comarcas-san-luis',
     title: 'Comarcas San Luis',
     shortDescription:
-      'Juego educativo web sobre la provincia de San Luis, con inicio de sesión y acceso como invitado.',
+      'Juego educativo web sobre la provincia de San Luis, sus departamentos y sus parajes, con inicio de sesión y acceso como invitado.',
     context: 'Juego educativo web',
     featured: true,
     status: 'Publicado',

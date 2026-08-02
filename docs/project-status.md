@@ -348,6 +348,7 @@ Estructura creada parcialmente:
 - Se reemplazo la frase interna sobre descripciones prudentes por un texto publico profesional y simple.
 - Se actualizaron las cards de Florearte, Comarcas San Luis y Fotaza2 Web 2026 con descripciones directas, tecnologias visibles y enlaces al proyecto.
 - Nahuel aclaro que Florearte es un catalogo de ceramicas; se corrigio la descripcion publica.
+- Nahuel aclaro que Comarcas San Luis trata sobre la provincia de San Luis, sus departamentos y sus parajes; se corrigio la descripcion publica.
 - Se corrigieron tildes y redaccion en textos visibles principales del sitio.
 - Se ejecuto `npm run format`, `npm run lint` y `npm run build` correctamente despues de pulir el copy publico.
 
