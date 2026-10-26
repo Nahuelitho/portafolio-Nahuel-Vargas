@@ -351,6 +351,11 @@ Estructura creada parcialmente:
 - Nahuel aclaro que Comarcas San Luis trata sobre la provincia de San Luis, sus departamentos y sus parajes; se corrigio la descripcion publica.
 - Se corrigieron tildes y redaccion en textos visibles principales del sitio.
 - Se ejecuto `npm run format`, `npm run lint` y `npm run build` correctamente despues de pulir el copy publico.
+- Nahuel aporto un documento PDF actualizado de notas del plan de estudios de dos paginas.
+- Se reemplazaron `public/images/profile/plan_estudio1.jpg` y `plan_estudio2.jpg` por las dos paginas renderizadas del documento vigente, sin publicar el PDF fuente.
+- Se actualizaron los textos alternativos y epigrafes de la galeria para indicar pagina 1 de 2 y pagina 2 de 2.
+- Se reescribio el bloque de demo Android como `App Android con API en .NET`, con un aviso publico de video proximo y sin rutas internas ni instrucciones tecnicas.
+- Se ejecuto `npm run format`, `npm run lint` y `npm run build` correctamente despues de actualizar notas y demo Android.
 
 ## Proximo Paso
 

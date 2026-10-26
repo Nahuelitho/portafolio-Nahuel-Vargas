@@ -554,6 +554,20 @@ Pasos de validacion: confirmar que existe `public/cv/nahuel-vargas-cv.pdf`, ejec
 
 Estado: completada.
 
+### Tarea 4.28: Actualizar capturas de notas y copy de demo Android
+
+Objetivo: reemplazar las capturas del plan de estudios por las dos paginas del documento de notas vigente aportado por Nahuel y reescribir el aviso de la demo Android con un texto publico y natural que mencione el proyecto Android con API en .NET.
+
+Archivos afectados: `docs/specifications/portfolio-spec.md`, `src/App.jsx`, `public/images/profile/plan_estudio1.jpg`, `public/images/profile/plan_estudio2.jpg`, `docs/project-status.md`.
+
+Criterios de aceptacion: las dos capturas corresponden al documento vigente de dos paginas, no se publica el PDF fuente, los textos alternativos y epigrafes indican pagina 1 de 2 y pagina 2 de 2, el aviso Android no muestra rutas internas ni instrucciones tecnicas, y el texto suena profesional sin frases evidentes de IA.
+
+Dependencias: documento de notas en PDF aportado por Nahuel.
+
+Pasos de validacion: revision manual de la galeria y del bloque Android, ejecutar `npm run format`, `npm run lint` y `npm run build`.
+
+Estado: completada.
+
 ## Fase 5: Proyectos
 
 ### Tarea 5.1: Crear modelo de datos de proyectos

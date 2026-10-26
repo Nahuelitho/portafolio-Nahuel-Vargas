@@ -49,13 +49,13 @@ const educationItems = [
 const academicRecordImages = [
   {
     src: '/images/profile/plan_estudio1.jpg',
-    alt: 'Captura del plan de estudios y notas académicas de Nahuel Vargas, página 1',
-    caption: 'Plan de estudios y notas - página 1',
+    alt: 'Notas del plan de estudios de Nahuel Vargas, página 1 de 2',
+    caption: 'Notas del plan de estudios - página 1 de 2',
   },
   {
     src: '/images/profile/plan_estudio2.jpg',
-    alt: 'Captura del plan de estudios y notas académicas de Nahuel Vargas, página 2',
-    caption: 'Plan de estudios y notas - página 2',
+    alt: 'Notas del plan de estudios de Nahuel Vargas, página 2 de 2',
+    caption: 'Notas del plan de estudios - página 2 de 2',
   },
 ]
 
@@ -261,14 +261,13 @@ function App() {
         >
           <div className="container android-demo-card">
             <div className="android-demo-copy">
-              <p className="section-eyebrow">Demo Android</p>
+              <p className="section-eyebrow">Proyecto Android</p>
               <h2 className="section-heading" id="android-demo-title">
-                Espacio para mostrar una app Android
+                App Android con API en .NET
               </h2>
               <p className="section-copy">
-                Sección preparada para sumar el video de una app Android grabada. Cuando
-                el archivo esté disponible, va en{' '}
-                <code>public/videos/android-app-demo.mp4</code>.
+                Próximamente voy a compartir un video del funcionamiento de una app
+                Android conectada a una API desarrollada en .NET.
               </p>
             </div>
 
@@ -281,7 +280,7 @@ function App() {
               ) : (
                 <div className="android-demo-placeholder">
                   <Smartphone size={40} aria-hidden="true" />
-                  <p>Video Android pendiente de carga</p>
+                  <p>Video próximamente</p>
                 </div>
               )}
             </div>

@@ -101,7 +101,9 @@ Contenido disponible desde CV, publicacion de LinkedIn y notas academicas:
 - Plan 2024 TUDS incorpora materias optativas y sistema SIU Guarani de autogestion para consultar notas e inscribirse a materias.
 - Notas academicas deben mostrarse mediante capturas oficiales del plan de estudios, no como listado manual de calificaciones una por una.
 - Capturas de notas disponibles: `/images/profile/plan_estudio1.jpg` y `/images/profile/plan_estudio2.jpg`.
+- Las capturas se generan a partir del documento de notas vigente de dos paginas aportado por Nahuel. El PDF fuente no se publica en el sitio; solo se publican las paginas renderizadas como imagen.
 - Las capturas deben poder abrirse en tamano completo en una pestana nueva para permitir zoom del navegador sin agregar modal ni JavaScript innecesario.
+- Los textos alternativos y epigrafes deben indicar pagina 1 de 2 y pagina 2 de 2.
 - Objetivo de especializarse en un area relacionada con JavaScript.
 - Busqueda de oportunidad laboral formal dentro del desarrollo de software.
 - Experiencia de pasantia en ULP durante 5 meses, digitalizando un juego educativo sobre la provincia de San Luis, sus departamentos y parajes. El juego quedo funcional y aprobado, pendiente de pulido para publicacion.
@@ -173,10 +175,11 @@ No simular envio exitoso de formularios si no existe un mecanismo real de envio.
 
 ### Demo Android
 
-- Preparar una seccion de demo para una app Android grabada por Nahuel.
+- Preparar una seccion de demo para un proyecto Android que consume una API desarrollada en .NET, confirmado por Nahuel.
 - El video debe guardarse en `public/videos/android-app-demo.mp4` cuando este disponible.
-- Mientras no exista el archivo confirmado, mostrar un espacio informativo sin renderizar un reproductor roto.
-- No inventar nombre, funcionalidades ni tecnologias de la app Android hasta que Nahuel confirme los datos.
+- Mientras no exista el archivo confirmado, mostrar un aviso publico breve del tipo `Video proximamente` sin renderizar un reproductor roto.
+- No mostrar rutas internas del repositorio, nombres de archivo ni instrucciones tecnicas en el texto publico.
+- No inventar nombre, funcionalidades ni otros detalles del proyecto Android hasta que Nahuel los confirme.
 
 ## Modelo de Datos de Proyectos
 
